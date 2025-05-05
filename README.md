@@ -1,1 +1,3 @@
-# goit-js-hw-02
+# FullStack Web Developer Course
+## JavaScript Homework 2
+
